@@ -1,0 +1,21 @@
+body {
+   font-size: 16px;
+   /* Pages body font must be the Halvetica Neue but if not available go down the list*/
+   font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+}
+
+/* Line height */
+p {
+   line-height: 1.5;
+}
+
+/* Image no more than 400 pixels */
+img {
+   max-height: 400px;
+}
+
+/* Give color to item on list */
+.important-reason {
+   color: pink;
+}
